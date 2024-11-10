@@ -29,7 +29,7 @@ public class Main {
 //        git switch -   [switch to previous branch]
 //        git branch -d feature2    [delete branch]
 //        git log --graph
-//
+//        git merge feature1
 //
 //
 
