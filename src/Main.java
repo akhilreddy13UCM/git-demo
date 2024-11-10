@@ -21,7 +21,13 @@ public class Main {
 //        git tag
 //        git push -u origin v1
 //        git show v1
-//        git checkout -b feature1
-//        git branch
+//        git checkout -b feature1 [creates new branch]
+//        git branch [show all branches]
+//        git switch feature1
+//        git switch -c feature2  [creates new branch]
+//        git branch all  [show all branches with remote]
+//        git switch -   [switch to previous branch]
+//
+//
     }
 }
