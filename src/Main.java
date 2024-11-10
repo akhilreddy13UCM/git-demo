@@ -30,8 +30,6 @@ public class Main {
 //        git branch -d feature2    [delete branch]
 //        git log --graph
 //        git merge feature1
-//
-//
 
     }
 }
