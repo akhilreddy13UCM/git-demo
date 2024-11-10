@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world4!");
         int a=20;
         System.out.println(a+"feature1");
+        System.out.println(a+"addition");
 //        git status
 //        git init -b main   [create main branch initializing git]
 //        git status
