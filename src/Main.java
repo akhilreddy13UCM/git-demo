@@ -27,7 +27,11 @@ public class Main {
 //        git switch -c feature2  [creates new branch]
 //        git branch all  [show all branches with remote]
 //        git switch -   [switch to previous branch]
+//        git branch -d feature2    [delete branch]
+//        git log --graph
 //
 //
+//
+
     }
 }
