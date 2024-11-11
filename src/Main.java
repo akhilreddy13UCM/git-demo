@@ -31,13 +31,6 @@ public class Main {
 //        git branch -d feature2    [delete branch]
 //        git log --graph
 //        git merge feature1
-//        git checkout -b cool_rebase_feature
-//        git commit -m "1st rebase commit"
-//        git commit -m "2nd rebase commit"
-//        git commit -m "3rd rebase commit"
-//
-
-=======
 //        git switch -c calculator
 //        git commit -m "addition"
 //        git commit -m "substraction"
@@ -45,6 +38,10 @@ public class Main {
 //              pick <commit_hash> Add subtract function
 //              squash <commit_hash> Add addition function
 //              addition and substract
->>>>>>> a077a9b3be8a39415bfb6ae9ddacfec2acb87a6d
+//        git checkout -b cool_rebase_feature
+//        git commit -m "1st rebase commit"
+//        git commit -m "2nd rebase commit"
+//        git commit -m "3rd rebase commit"
+//
     }
 }
