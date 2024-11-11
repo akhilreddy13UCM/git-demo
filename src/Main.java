@@ -33,7 +33,7 @@ public class Main {
 //        git checkout -b cool_rebase_feature
 //        git commit -m "1st rebase commit"
 //        git commit -m "2nd rebase commit"
-//
+//        git commit -m "3rd rebase commit"
 //
 
     }
