@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world4!");
         int a=20;
         System.out.println(a+"feature1");
+        System.out.println(a+"addition");
 //        git status
 //        git init -b main   [create main branch initializing git]
 //        git status
@@ -30,6 +31,12 @@ public class Main {
 //        git branch -d feature2    [delete branch]
 //        git log --graph
 //        git merge feature1
-
+//        git switch -c calculator
+//        git commit -m "addition"
+//        git commit -m "substraction"
+//        git rebase -i HEAD~2
+//              pick <commit_hash> Add subtract function
+//              squash <commit_hash> Add addition function
+//              addition and substract
     }
 }
