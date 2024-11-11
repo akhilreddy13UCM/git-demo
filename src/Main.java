@@ -31,8 +31,8 @@ public class Main {
 //        git log --graph
 //        git merge feature1
 //        git checkout -b cool_rebase_feature
-//
-//
+//        git commit -m "1st rebase commit"
+//        git commit -m "2nd rebase commit"
 //
 //
 
