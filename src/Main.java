@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         String s="Iam a Software development engineer with no experience";
+        int exp=2;
         System.out.println("Hello world4!");
         int a=20;
         System.out.println(a+"feature1");
