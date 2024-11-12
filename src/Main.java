@@ -43,6 +43,6 @@ public class Main {
 //        git commit -m "1st rebase commit"
 //        git commit -m "2nd rebase commit"
 //        git commit -m "3rd rebase commit"
-//
+//        git stash
     }
 }
